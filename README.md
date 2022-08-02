@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @osamatkxel
+- 👋 Hi, I’m @osamatariq165
 - 👀 I’m interested in building web projects with cutting edge technologies.
 - 🌱 I’m currently learning AWS with Node js
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 Gmail: osama.tariq@tkxel.com
 
 <!---
 osamatkxel/osamatkxel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
